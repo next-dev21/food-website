@@ -134,6 +134,7 @@ h1{
 .achievement-details{
     float: left;
     width: 30%;
+    margin-left: 32px;
 }
 .achievement-details h2{
     font-size: 35px;
