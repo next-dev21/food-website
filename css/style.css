@@ -1,0 +1,147 @@
+body{
+    font-family: 'Noto Sans', sans-serif;    
+    margin: 0;
+}
+.cyan-color{
+    color: #12B6FB;    
+}
+.container-lg{
+    min-height: 100vh;
+}
+.container-item{
+    width: 40%;
+    float: left;
+    margin-top: 25px;
+    margin-left: 75px;
+    margin-bottom: 75px;
+}
+.container-item img{
+    width: 90%;
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: 50px;
+    margin-right: 100px;
+    width: 50%;
+    margin-top: 50px;
+}
+.center-two{
+    width: 60%;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.header-para{
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+.special-p p{
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 40px;
+    color: #F8F8FF;
+    background-image: linear-gradient(#050505, #1E90FF);
+    box-shadow: 1px 1px 12px #1E90FF;
+}
+.about-me{
+    background-image: url(../images/blue-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90vh;
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.gray-color{
+    color: #808080;
+}
+#no-margin{
+    margin-bottom: 75px;
+}
+.recipes{
+    max-height: 100vh;
+}
+.recipe-header{
+    text-align: center;
+    color: #808080;
+}
+.recipe-header p{
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.recipe-header  h2{
+    font-size: 45px;
+    font-weight: bold;
+    clear: both;
+}
+.recipe-items{
+    width: 25%;
+    float: left;
+    margin: 15px;
+    clear: right;
+    padding: 25px;
+    margin: 20px;
+    border: 2px solid #F7F7F7;
+    border-radius: 20px;
+    box-shadow: 50px 50px 40px #E5E5E5;
+}
+.recipe-items h2{
+    color: #808080;
+    font-size: 28px;
+}
+.recipe-items p{
+    text-align: justify;
+    font-size: 18px;
+    color: #707070;
+}
+.recipe-img{
+    width: 100%;
+    padding: 0px;
+    clear: left;
+    border-radius: 25px;
+    height: 250px;
+}
+.achievement{
+    float: none;
+}
+.achievement-items{
+    width: 100%;
+}
+.achievement-details{
+    float: left;
+    width: 30%;
+}
+.footer{
+    background-color: #F8F8FF;
+    margin: 0;
+    min-height: 25vh;
+    text-align: center;
+    clear: left;
+}
+.footer-h2{
+    color: #1E90FF;
+}
+footer h2{
+    font-size: 30px;
+    padding-top: 20px;
+    color: #808080;
+}
+.footer p{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: #708090;
+}
